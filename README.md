@@ -27,9 +27,9 @@
 - [Getting Started](#-----getting-started)
 - [Installation](#-----installation)
 - [Contribution](#-----contribution)
-- [Links](#-----n)
-- [Author](#-----n)
-- [License](#-----n)
+- [Author](#-----author)
+- [Links](#-----links)
+- [License](#-----license)
 
 <h2>
     🚀 Getting Started
@@ -81,6 +81,15 @@ npm run-android
 </h2>
 
 - [CodeNinja](https://github.com/codeninja02)
+
+<h2>
+    💻 Links
+</h2>
+
+- [Turbo Browser on Google Play Store](https://play.google.com/store/apps/details?id=com.turbo_infinitus)
+- [Website](https://turbo-browser.netlify.app/)
+- [Privacy Policy](https://turbo-browser.netlify.app/privacy-policy.html)
+- [FAQs](https://turbo-browser.netlify.app/help.html)
 
 <h2>
     📄 License
