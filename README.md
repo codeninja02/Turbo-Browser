@@ -5,7 +5,7 @@
    <strong>Simple</strong> &amp; <strong>Secure</strong> Internet mobile browser built on <a href="https://reactnative.dev/"><strong>React Native</strong></a>
 </h3>
 <h4 align="center">
-  <a href="">Getting Started</a> <span> <strong>·</strong> </span> <a href="">Get it on Google Play</a> <span> <strong>·</strong> </span> <a href="">Visit Website</a>
+  <a href="">Getting Started</a> <span> <strong>·</strong> </span> <a href="https://play.google.com/store/apps/details?id=com.turbo_infinitus">Get it on Google Play</a> <span> <strong>·</strong> </span> <a href="https://turbo-browser.netlify.app/">Visit Website</a>
 </h4>
 <p align="center">
   <a target="_blank" href="https://play.google.com/store/apps/details?id=com.turbo_infinitus">
@@ -24,7 +24,7 @@
     Contents
 </h2>
 
-- [Getting Started](#-getting-started)
+- [Getting Started](#-----getting-started)
 - [Installation](#-installation)
 - [Contribution](#-contribution)
 - [Links](#-n)
@@ -72,5 +72,19 @@ npm run-android
     👏 Contribution
 </h2>
 <p>
-    
+    The main purpose of this repository is to continue evolving Turbo Browser as an open source app. We want to make contributing to this project as easy and transparent as possible, and we are grateful to the community for contributing bug fixes and improvements. Read below to learn how you can take part in improving Turbo Browser.<br>
+    See <a href="https://github.com/codeninja02/Turbo-Browser/blob/master/docs/Contributing.md">CONTRIBUTION.md</a> for more information.
+</p>
+
+<h2>
+    💻 Author
+</h2>
+
+- [CodeNinja](https://github.com/codeninja02)
+
+<h2>
+    📄 License
+</h2>
+<p>
+    This project is licensed under the MIT License, see the <a href="https://github.com/codeninja02/Turbo-Browser/blob/master/LICENSE.md">LICENSE.md</a> file for details.
 </p>
