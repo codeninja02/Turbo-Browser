@@ -86,7 +86,7 @@ npm run-android
 - [CodeNinja](https://github.com/codeninja02)
 
 <h2>
-    💻 Links
+    🔗 Links
 </h2>
 
 - [Turbo Browser on Google Play Store](https://play.google.com/store/apps/details?id=com.turbo_infinitus)
