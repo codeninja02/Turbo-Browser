@@ -25,11 +25,11 @@
 </h2>
 
 - [Getting Started](#-----getting-started)
-- [Installation](#-installation)
-- [Contribution](#-contribution)
-- [Links](#-n)
-- [Author](#-n)
-- [License](#-n)
+- [Installation](#-----installation)
+- [Contribution](#-----contribution)
+- [Links](#-----n)
+- [Author](#-----n)
+- [License](#-----n)
 
 <h2>
     🚀 Getting Started
