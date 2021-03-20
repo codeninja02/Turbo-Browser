@@ -74,5 +74,5 @@ Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
 
-Homepage: https://turbo-browser.netlify.app/
+Homepage: https://turbo-browser.netlify.app/<br>
 Releases: https://github.com/codeninja02/Turbo-Browser/releases
