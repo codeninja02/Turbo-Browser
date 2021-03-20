@@ -24,10 +24,53 @@
     Contents
 </h2>
 
-- [Getting Started](#-n)
-- [Installation](#-n)
-- [Contribution](#-n)
+- [Getting Started](#-getting-started)
+- [Installation](#-installation)
+- [Contribution](#-contribution)
 - [Links](#-n)
 - [Author](#-n)
 - [License](#-n)
 
+<h2>
+    🚀 Getting Started
+</h2>
+<p>
+    You need to have React Native CLI pre installed before getting to installation.
+</p>
+<h2>
+    📖 Installation
+</h2>
+<p>
+    Start off by cloning the repository and installing the node modules.
+</p>
+
+```  
+git clone https://github.com/codeninja02/Turbo-Browser.git
+  
+cd Turbo-Browser
+
+# Install project dependencies
+npm install  
+``` 
+
+<h4>
+    For Android
+</h4>
+<p>
+    After setting up project on Android Studio and syncing with Gradle files, you need to register a mobile device. Open your simulator or connect your mobile device through USB debugging, then:
+</p>
+
+```
+# This will start a development server for you.
+npm run start
+
+# This command will install and launch your app on your mobile device
+npm run-android
+```
+
+<h2>
+    👏 Contribution
+</h2>
+<p>
+    
+</p>
