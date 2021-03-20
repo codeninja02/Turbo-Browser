@@ -20,7 +20,9 @@
   
 </p>
 <br>
-## Contents
+<h2>
+    Contents
+</h2>
 
 - [Getting Started](#-n)
 - [Installation](#-n)
