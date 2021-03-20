@@ -76,7 +76,7 @@ npm run-android
 </h2>
 <p>
     The main purpose of this repository is to continue evolving Turbo Browser as an open source app. We want to make contributing to this project as easy and transparent as possible, and we are grateful to the community for contributing bug fixes and improvements. Read below to learn how you can take part in improving Turbo Browser.<br>
-    See <a href="https://github.com/codeninja02/Turbo-Browser/blob/master/CONTRIBUTING.md">Contributing.md</a> for more information.
+    See <a href="https://github.com/codeninja02/Turbo-Browser/blob/master/CONTRIBUTING.md">CONTRIBUTING.md</a> for more information.
 </p>
 
 <h2>
