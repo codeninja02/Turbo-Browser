@@ -17,9 +17,9 @@
 </p>
 <br>
 <p>
-  
+    Turbo Browser, an internet browsing mobile app is built on <a href="https://reactnative.dev/">React Native</a> (version 0.63.4) and has 8 screens in total.<br><br>
+    It is built on React Native, which makes it cross platform for both iOS and Android, but it is only compatible with Android at the present. It makes use of RN Async Storage to store user information (like Bookmarks, History, etc) on the users' device and <a href="https://redux.js.org/">Redux</a> for application state management.
 </p>
-<br>
 <h2>
     Contents
 </h2>
