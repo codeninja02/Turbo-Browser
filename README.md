@@ -1,3 +1,6 @@
+<p align="center">
+    <img height="50px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616272706/planetIcon_l7q4jy.svg" alt="Turbo Browser svg icon" />
+</p>
 <h1 align="center">
     Turbo Browser
 </h1>
