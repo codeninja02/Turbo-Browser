@@ -98,5 +98,5 @@ npm run-android
     📄 License
 </h2>
 <p>
-    This project is licensed under the MIT License, see the <a href="https://github.com/codeninja02/Turbo-Browser/blob/master/LICENSE.md">LICENSE.md</a> file for details.
+    This project is licensed under the MIT License, see the <a href="https://github.com/codeninja02/Turbo-Browser/blob/master/LICENSE">LICENSE.md</a> file for details.
 </p>
