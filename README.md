@@ -12,7 +12,7 @@
     <img height="38px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616240506/get-it-on-google-play_ncjdep.svg" alt="Turbo Browser on Google Play" />
   </a>
   <a target="_blank" href="https://turbo-browser.netlify.app/">
-    <img height="38px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616240504/visit-website_opvkzv.svg" alt="Turbo Browser website" />
+    <img height="38px" src="https://res.cloudinary.com/dpj9ddsjf/image/upload/v1616242244/visit-website_axucr8.svg" alt="Turbo Browser website" />
   </a>
 </p>
 <br>
