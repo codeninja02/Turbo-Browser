@@ -83,7 +83,7 @@ npm run-android
     💻 Author
 </h2>
 
-- [CodeNinja](https://github.com/codeninja02)
+- [Utsav Prasad](https://github.com/codeninja02)
 
 <h2>
     🔗 Links
